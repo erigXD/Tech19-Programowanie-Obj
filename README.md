@@ -1,1 +1,1 @@
-# Tech19-Programowanie-Obj
+# Tech19-Programowanie-Objektowe
